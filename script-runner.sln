@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30320.27
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clear-cache", "clear-cache.csproj", "{D204ED3A-8713-4E76-9CC6-657EFD472338}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "script-runner", "script-runner.csproj", "{D204ED3A-8713-4E76-9CC6-657EFD472338}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
