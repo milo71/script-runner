@@ -1,0 +1,11 @@
+C:\Users\mlong\Desktop\clear-cache\clear-cache\obj\Debug\clear-cache.csprojAssemblyReference.cache
+C:\Users\mlong\Desktop\clear-cache\clear-cache\obj\Debug\clear-cache.csproj.CoreCompileInputs.cache
+C:\Users\mlong\Desktop\clear-cache\clear-cache\bin\Debug\clear-cache.exe.config
+C:\Users\mlong\Desktop\clear-cache\clear-cache\bin\Debug\clear-cache.exe
+C:\Users\mlong\Desktop\clear-cache\clear-cache\bin\Debug\clear-cache.pdb
+C:\Users\mlong\Desktop\clear-cache\clear-cache\bin\Debug\System.Management.Automation.dll
+C:\Users\mlong\Desktop\clear-cache\clear-cache\bin\Debug\Microsoft.Management.Infrastructure.dll
+C:\Users\mlong\Desktop\clear-cache\clear-cache\bin\Debug\System.Management.Automation.xml
+C:\Users\mlong\Desktop\clear-cache\clear-cache\obj\Debug\clear-cache.csproj.CopyComplete
+C:\Users\mlong\Desktop\clear-cache\clear-cache\obj\Debug\clear-cache.exe
+C:\Users\mlong\Desktop\clear-cache\clear-cache\obj\Debug\clear-cache.pdb
