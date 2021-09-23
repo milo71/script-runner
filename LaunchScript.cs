@@ -18,7 +18,8 @@ namespace script_runner
                     UseShellExecute = false
                 };
                 Process.Start(startInfo);
-                Console.WriteLine("Script launched.");
+                //Console.WriteLine("Script launched.");
+                Logging.WriteEventLogEntry("Successfully ran script");
             }
             else
             {
